@@ -31,7 +31,13 @@
 - create PAT (Personal Access Token) with **Full control of private repositories** and **Full control of orgs and teams, read and write org projects**
 - add to repository actions secrets key with the name `PAT` and the value of the created PAT 
 
+<<<<<<< HEAD
 Test Conflict
 Fds
 ddd
 f
+=======
+1
+1
+1 Conflict
+>>>>>>> c5afb5f2184d099a2c08c0da4dd5e4259e487ac5
